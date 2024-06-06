@@ -1,7 +1,8 @@
 # Reto_11_Michael_Mora
-Desarrollo reto 11, según lo aprendido en clase con Matrices.
 
-*(Al final de cada codigo dejo una breve explicacion si miro que es necesario)*
+Desarrollo reto 11, según lo aprendido en clase con [Matrices](http://https://github.com/fegonzalez7/pdc_unal_clase15 "Matrices").
+
+Cada punto esta debidamente comentado, por lo que creo que a este punto del curso de PdC no es necesario una explicacion mas pricisa como las que he hecho en anteriores Retos.
 
 _______________________________
 ## **Punto 1**
